@@ -1,6 +1,7 @@
 {
     "name": "twodark",
     "displayName": "TwoDark",
+    "publisher": "Avetis",
     "description": "Dark theme based on GitHub Theme",
     "version": "0.0.1",
     "engines": {
