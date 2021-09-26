@@ -3,7 +3,7 @@
     "displayName": "TwoDark",
     "publisher": "Avetis",
     "description": "Dark theme based on GitHub Theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
 	"icon": "icons/logo.png",
     "repository": "https://github.com/AvetisDN/twodark-vscode-theme",
     "engines": {
