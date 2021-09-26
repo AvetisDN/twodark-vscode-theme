@@ -4,6 +4,7 @@
     "publisher": "Avetis",
     "description": "Dark theme based on GitHub Theme",
     "version": "0.0.2",
+    "repository": "https://github.com/AvetisDN/twodark-vscode-theme",
     "engines": {
         "vscode": "^1.60.0"
     },
