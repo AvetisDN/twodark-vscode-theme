@@ -4,9 +4,10 @@
     "publisher": "Avetis",
     "description": "Dark theme based on GitHub Theme",
     "version": "0.1.0",
+	"icon": "icons/logo.png",
     "repository": "https://github.com/AvetisDN/twodark-vscode-theme",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.52.0"
     },
     "categories": [
         "Themes"
