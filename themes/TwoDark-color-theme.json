@@ -25,6 +25,8 @@
 		"dropdown.border": "#1b1f23",
 		"dropdown.foreground": "#e1e4e8",
 		"dropdown.listBackground": "#24292e",
+		"menu.background": "#2f363d",
+		"menu.foreground": "#d1d5da",
 		"input.background": "#2f363d",
 		"input.border": "#1b1f23",
 		"input.foreground": "#e1e4e8",

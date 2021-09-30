@@ -3,7 +3,7 @@
     "displayName": "TwoDark",
     "publisher": "Avetis",
     "description": "Dark theme based on GitHub Theme",
-    "version": "0.2.0",
+    "version": "0.3.0",
 	"icon": "icons/logo.png",
     "repository": "https://github.com/AvetisDN/twodark-vscode-theme",
     "engines": {
@@ -15,14 +15,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "TwoDark",
+                "label": "Two Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/TwoDark-color-theme.json"
             },
             {
-                "label": "TwoDark-Vibrant",
+                "label": "Two Dark Vibrant",
                 "uiTheme": "vs-dark",
                 "path": "./themes/TwoDark-vibrant-color-theme.json"
+            },
+            {
+                "label": "Two Dark Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwoDark-contrast-color-theme.json"
             }
         ]
     }
